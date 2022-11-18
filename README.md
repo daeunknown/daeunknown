@@ -6,11 +6,8 @@
 </br>
 
 - 서울시립대학교 통계학과 재학 (2020.3. ~)
-</br>
 - 빅데이터혁신공유대학 서포터즈 (2022.4. ~)
-- </br>
 - 서울시립대학교 <a href="https://sites.google.com/view/dilab-uos/">DILab</a> 학부연구생 (2022.11. ~)
-- </br>
 - We-meet, Microsoft 인프라팀 리더 (2022.11. ~)
 
 
