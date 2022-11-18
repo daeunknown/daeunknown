@@ -1,6 +1,6 @@
-### Hello, Welcome to daeunknown's github! 👩‍💻
+### Hello, Welcome to daeunknown's github! 👩‍💻 ###
 </br>
-##### 저는 지금...
+##### 저는 지금... #####
 </br>
 - 서울시립대학교 통계학과 재학 (2020.3. ~)
 - 빅데이터혁신공유대학 서포터즈 (2022.4. ~)
