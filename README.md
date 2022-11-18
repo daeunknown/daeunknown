@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @daeunknown
-- 👀 I’m interested in NLP and AI
+### Hi, there. I am Daeun Kim.
+
+<a href="https://www.instagram.com/daeunknown/" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=flat-square&logo=appveyor&logo=Instagram&logoColor=#E4405F"/></a>
 
 <!---
 daeunknown/daeunknown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
